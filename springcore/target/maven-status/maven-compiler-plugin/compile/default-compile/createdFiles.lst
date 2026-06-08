@@ -1,4 +1,10 @@
-com\springcore\collection\Employee.class
-com\springcore\App.class
-com\springcore\collection\Main.class
+com\springcore\ci\Person.class
+com\springcore\reference\Demo.class
 com\springcore\Student.class
+com\springcore\ci\Certificate.class
+com\springcore\collection\Employee.class
+com\springcore\collection\Main.class
+com\springcore\App.class
+com\springcore\reference\Address.class
+com\springcore\reference\Student.class
+com\springcore\ci\Test.class

@@ -37,7 +37,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.6.3</version>
         <configuration>
-          <mainClass>com.springcore.collection.Main</mainClass>
+          <mainClass>com.springcore.ci.Test</mainClass>
         </configuration>
       </plugin>
     </plugins>
