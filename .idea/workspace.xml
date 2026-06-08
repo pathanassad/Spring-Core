@@ -4,16 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6718c31d-8ce9-4dd8-95f9-a6ca5c783d03" name="Changes" comment="" />
+    <list default="true" id="6718c31d-8ce9-4dd8-95f9-a6ca5c783d03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcore/src/main/java/com/springcore/ci/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/src/main/java/com/springcore/ci/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcore/src/main/java/com/springcore/ci/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/src/main/java/com/springcore/ci/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcore/src/main/resources/ciconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/src/main/resources/ciconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcore/target/classes/ciconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/classes/ciconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcore/target/classes/com/springcore/ci/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/classes/com/springcore/ci/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcore/target/classes/com/springcore/ci/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/classes/com/springcore/ci/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcore/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcore/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Eo1dPyjEFIi1UPQzy1nn3iGuly" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,9 +36,22 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/Spring Core/SpringCoreProject/src/main/java/org/example/Main.java"
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Spring Core/SpringCoreProject/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -33,10 +59,24 @@
       <recent name="D:\Spring Core\springcore\src\main\resources" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Spring Core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Spring Core" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
       </set>
     </attachedChunks>
   </component>
@@ -47,8 +87,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780830196032</updated>
+      <workItem from="1780940498264" duration="2612000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
