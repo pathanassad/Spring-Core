@@ -11,6 +11,11 @@ public class Main
         AbstractApplicationContext context = new ClassPathXmlApplicationContext("lifecycle.xml");
         Samosa samosa = (Samosa) context.getBean("samosa");
         System.out.println(samosa);
+
+        System.out.println("-----------------------------");
+        Pepsi pepsi = (Pepsi) context.getBean("pepsi");
+        System.out.println(pepsi);
+
         context.registerShutdownHook();
 
     }
