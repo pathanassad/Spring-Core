@@ -42,7 +42,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.6.3</version>
         <configuration>
-          <mainClass>com.springcore.lifecycle.Main</mainClass>
+          <mainClass>com.springcore.autowire.Main</mainClass>
         </configuration>
       </plugin>
     </plugins>
