@@ -1,11 +1,13 @@
 package com.springcore.autowire.annotation;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 
 public class Admin {
 
 private String name;
-//@Autowired
+@Autowired
+@Qualifier("employee")
 private Employee employee;
 
 public String getName() {
@@ -34,7 +36,7 @@ public String toString() {
             '}';
 }
 
-@Autowired
+//@Autowired
 public Admin(Employee employee)
 {
     this.employee = employee;

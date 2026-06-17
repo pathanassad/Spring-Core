@@ -17,6 +17,13 @@
 
     </bean>
 
+    <bean class="com.springcore.autowire.annotation.Employee" name="employee2">
+        <property name="name" value="Jamshed" />
+        <property name="address" value="Poona Camp"/>
+        <property name="age" value="15"/>
+
+    </bean>
+
 
     <bean class="com.springcore.autowire.annotation.Admin" name="admin">
         <property name="name" value="Joseph"/>
