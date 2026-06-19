@@ -42,6 +42,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.6.3</version>
         <configuration>
+
           <mainClass>com.springcore.standalone.collections.Test</mainClass>
         </configuration>
       </plugin>

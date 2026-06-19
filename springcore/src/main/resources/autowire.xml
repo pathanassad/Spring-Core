@@ -21,8 +21,12 @@
 
 <!--    </bean>-->
 
-    <bean class="com.springcore.autowire.Employee" name="employee" autowire="byType">
+<!--    <bean class="com.springcore.autowire.Employee" name="employee" autowire="byType">-->
 
-    </bean>
+<!--    </bean> -->
+
+    <bean class="com.springcore.autowire.Employee" name="employee" autowire="constructor" />
+
+
 
 </beans>

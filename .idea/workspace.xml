@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6718c31d-8ce9-4dd8-95f9-a6ca5c783d03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcore/src/main/java/com/springcore/ci/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/src/main/java/com/springcore/ci/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcore/src/main/java/com/springcore/ci/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/src/main/java/com/springcore/ci/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcore/src/main/resources/ciconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/src/main/resources/ciconfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcore/target/classes/ciconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/classes/ciconfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcore/target/classes/com/springcore/ci/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/classes/com/springcore/ci/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcore/target/classes/com/springcore/ci/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/classes/com/springcore/ci/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcore/src/main/java/com/springcore/autowire/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/src/main/java/com/springcore/autowire/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcore/target/classes/autowire.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/classes/autowire.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcore/target/classes/com/springcore/autowire/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/classes/com/springcore/autowire/Employee.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springcore/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springcore/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/springcore/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
@@ -23,6 +19,65 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0647457432394065" />
+      <entry key="MS500" value="2.7103592517883968" />
+      <entry key="S2" value="6.7025720663194" />
+      <entry key="S5" value="10.714430606197357" />
+      <entry key="S10" value="15.205924392728127" />
+      <entry key="S30" value="25.766906082060142" />
+      <entry key="S60" value="40.34282195422895" />
+      <entry key="M2" value="60.26228841047557" />
+      <entry key="M5" value="83.48933120936147" />
+      <entry key="M10" value="99.23958538337497" />
+      <entry key="M15" value="108.7361844448207" />
+      <entry key="M30" value="123.63717837054602" />
+      <entry key="H1" value="134.53756216097972" />
+      <entry key="H2" value="141.24446397679284" />
+      <entry key="H4" value="144.97966309596038" />
+      <entry key="D1" value="148.30908161210297" />
+      <entry key="W1" value="148.9007720062206" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="6.661939405895147E-29" />
+      <entry key="MS500" value="2.579337015142512E-6" />
+      <entry key="S2" value="0.06166895255125464" />
+      <entry key="S5" value="0.49951530533364524" />
+      <entry key="S10" value="1.0838982926971383" />
+      <entry key="S30" value="2.3324860068958504" />
+      <entry key="S60" value="3.3350521044762864" />
+      <entry key="M2" value="4.306582239616201" />
+      <entry key="M5" value="5.32768264833412" />
+      <entry key="M10" value="6.1627451065141035" />
+      <entry key="M15" value="6.707817738356675" />
+      <entry key="M30" value="7.5678077594219575" />
+      <entry key="H1" value="8.189065546475268" />
+      <entry key="H2" value="8.567014044159347" />
+      <entry key="H4" value="8.776079966184962" />
+      <entry key="D1" value="8.961598225915624" />
+      <entry key="W1" value="8.994486857806566" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9948299841700338" />
+      <entry key="MS500" value="2.6779465052916493" />
+      <entry key="S2" value="6.728234402057925" />
+      <entry key="S5" value="11.13216533727438" />
+      <entry key="S10" value="16.195888008225253" />
+      <entry key="S30" value="28.029132816777768" />
+      <entry key="S60" value="43.627712658216346" />
+      <entry key="M2" value="64.53640525228026" />
+      <entry key="M5" value="88.79798718592978" />
+      <entry key="M10" value="105.38665050019434" />
+      <entry key="M15" value="115.43029743379311" />
+      <entry key="M30" value="131.19546741196123" />
+      <entry key="H1" value="142.72090090556645" />
+      <entry key="H2" value="149.8083217416788" />
+      <entry key="H4" value="153.75408424214064" />
+      <entry key="D1" value="157.27039147130964" />
+      <entry key="W1" value="157.8952173680054" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
   &quot;fromUser&quot;: false
@@ -32,45 +87,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Spring Core/SpringCoreProject/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Spring Core/SpringCoreProject/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Spring Core\springcore\src\main\resources" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Spring Core" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Spring Core" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
