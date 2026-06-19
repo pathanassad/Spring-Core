@@ -14,6 +14,7 @@ public class Main
         System.out.println(employee1.getAddresses());
         System.out.println(employee1.getCourses());
         System.out.println(employee1.getProps());
+        System.out.println(employee1.getPhoneNumbers().getClass().getName());
 
     }
 }
